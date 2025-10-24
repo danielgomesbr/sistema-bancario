@@ -1,4 +1,4 @@
-﻿# Sistema Bancário Simples.
+﻿# Sistema Bancário Simples
 
 Sistema feito afim de cumprir um desafio do bootcamp, realiza depósito, saque e consulta de extrato, não tem login para identificação de usuário.
 
